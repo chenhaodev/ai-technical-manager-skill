@@ -35,9 +35,8 @@ The skill reads from these directories in the workspace:
 
 Open your ClaudeCode or OpenCode, type:
 ```
-curl https://github.com/chenhaodev/ai-technical-manager-skill
+curl https://github.com/chenhaodev/ai-technical-manager-skill and install this SKILL
 ```
-and install it.
 
 ## Usage Example
 
