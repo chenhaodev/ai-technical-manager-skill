@@ -1,0 +1,26 @@
+{
+  "skill_name": "ai-technical-manager",
+  "evals": [
+    {
+      "id": 0,
+      "eval_name": "team-status-query",
+      "prompt": "产品经理让我了解一下AI团队现在能做什么，有没有新的技术能力？他说想给我们康养平台加一个智能健康建议功能，想知道可行性。另外我们Q3的 roadmap 有没有排满，能否接新需求？",
+      "expected_output": "Should provide team capabilities summary, current roadmap status, and initial feasibility assessment for the new feature request",
+      "files": []
+    },
+    {
+      "id": 1,
+      "eval_name": "prd-evaluation",
+      "prompt": "我这里有个PRD，是关于AI健康助手的，要求能理解用户语音描述的身体症状，然后给出初步诊断建议。技术上想用最新的大语言模型来实现，响应时间要求3秒以内。帮我看看这个需求靠不靠谱，我们团队能不能做",
+      "expected_output": "Should output a Feasibility Report with: understanding of request, clarifying questions, technical feasibility analysis, bandwidth impact assessment",
+      "files": []
+    },
+    {
+      "id": 2,
+      "eval_name": "market-analysis-query",
+      "prompt": "领导让我准备一下下周的战略会议，需要分析一下国内AI医疗市场现在的情况，特别是AI医疗助理和智能健康管理这几个赛道，哪些公司在做，有什么机会点，能不能用我们现有的技术优势",
+      "expected_output": "Should output Market Analysis covering competitive landscape, market opportunities, strategic recommendations based on market data",
+      "files": []
+    }
+  ]
+}

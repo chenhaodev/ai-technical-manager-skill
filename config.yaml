@@ -1,0 +1,8 @@
+site:
+  name: ai-technical-manager
+  description: AI Technical Manager skill for OpenCode - represents the AI Engineering and Research team, handling stakeholder communication, PRD evaluation, and roadmap management
+  version: 1.0.0
+  author: OpenCode Team
+
+# No crawling functionality needed for this skill - it's a conversational/management skill
+# This skill focuses on reading team/ and prd/ directories and providing structured responses
